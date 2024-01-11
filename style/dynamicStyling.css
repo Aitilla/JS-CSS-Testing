@@ -1,0 +1,16 @@
+.ulDot{
+    list-style: none;
+}
+
+.textbox, .arrow {
+    /* position: absolute; */
+    cursor: move;
+}
+
+.removeButton {
+    /* position: absolute; */
+    cursor: pointer;
+    top: 5px;
+    right: -15px;
+}
+
