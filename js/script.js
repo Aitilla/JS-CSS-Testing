@@ -1,8 +1,4 @@
 
-
-
-
-
 function createLi(){
     let textBox = document.createElement('li');
     textBox.classList.add('draggable');
@@ -59,11 +55,3 @@ liButton.addEventListener('click', createLi);
 
 const arrowButton = document.getElementById('createArrow');
 arrowButton.addEventListener('click', createArrow)
-
-
-
-
-
-
-
-
